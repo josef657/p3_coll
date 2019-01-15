@@ -37,8 +37,8 @@ The Critic networks has  three fully connected layers with leaky_relu activation
    - input: 128  output 1
 
 ## Plot of rewards
-![Reward Plot]() 
-![Reward Plot]()
+![Reward Plot](https://github.com/josef657/p3_coll/blob/master/p31.png?raw=true) 
+![Reward Plot](https://github.com/josef657/p3_coll/blob/master/p32.png?raw=true)
 
 ```
 Episode 100	Average Score: 0.00.72	Rewards [ 0.00 -0.01]	Scores: [ 0.00 -0.01]
